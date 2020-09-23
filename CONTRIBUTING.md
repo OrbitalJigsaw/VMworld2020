@@ -1,4 +1,4 @@
-# Contributing
+# :handshake: Contributing
 
 We love your input! We want to make contributing to this project as easy and
 transparent as possible, whether it's:
@@ -10,14 +10,14 @@ transparent as possible, whether it's:
 Please note we have a [Code of Conduct](#code-of-conduct). Please follow it in
 all your interactions with the project.
 
-## Request Assistance/ Submit Feature Requests using the GitHub Issue Tracker
+## :man_shrugging: :woman_shrugging: Request Assistance/Submit Feature Requests using the GitHub Issue Tracker
 
 We use GitHub's Issue Tracker to track requests for assistance or enabling new features. Request assistance or add a 
 feature request by [opening a new issue](https://github.com/OrbitalJigsaw/VMworld2020/issues/new/choose). It's that easy!
 
 If all of this GitHub stuff is totally new to you but you still want to share, or if you'd like to help the team out, [join the Discord](discord.gg/pCtqUj), and we'll be glad to have you as a part of this!
 
-## License
+## :crossed_fingers: License
 
 By contributing, you agree that your contributions will be will be made
 available to anyone who accesses/downloads this repository.
@@ -27,9 +27,9 @@ licenses.
 
 If in doubt, don't submit it.
 
-## Code of Conduct
+## :people_holding_hands: Code of Conduct
 
-### Our Pledge
+### :blue_heart: Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
@@ -38,7 +38,7 @@ size, disability, ethnicity, gender identity and expression, level of experience
 nationality, personal appearance, race, religion, or sexual identity and
 orientation.
 
-### Our Standards
+### :scroll: Our Standards
 
 Examples of behavior that contributes to creating a positive environment
 include:
@@ -60,19 +60,19 @@ address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
 professional setting
 
-### Our Responsibilities
+### :balance_scale: Our Responsibilities
 
 Project maintainers are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
 Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, images, other digitial media, links, wiki edits,
+reject comments, commits, images, other digital media, links, wiki edits,
 issues, and other contributions that are not aligned to this Code of Conduct,
 or to ban temporarily or permanently any contributor for other behaviors that
 they deem inappropriate, threatening, offensive, or harmful.
 
-### Scope
+### :world_map: Scope
 
 This Code of Conduct applies both within project spaces and in public spaces
 When an individual is representing the project or its community. Examples of
@@ -81,11 +81,11 @@ address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
-### Enforcement
+### :monocle_face: Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team [via the Discord](discord.gg/pCtqUj),
-or through an issue, or All complaints will be reviewed and investigated and
+or through an issue. All complaints will be reviewed and investigated and
 will result in a response that is deemed necessary and appropriate to the
 circumstances. The project team is obligated to maintain confidentiality with
 regard to the reporter of an incident. Further details of specific enforcement
@@ -95,7 +95,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
-### Attribution
+### :receipt:	Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 1.4, available at [http://contributor-covenant.org/version/1/4][version]

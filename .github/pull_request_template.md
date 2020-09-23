@@ -6,13 +6,13 @@ We cannot maintain your individual copyrights, trademarks, or Creative Commons l
 
 If in doubt, don't submit it.
 
-## Description
+## :memo: Description
 
 Please include the source of your digital swag (VMUG or other community, individual, vendor), and the type of content (images, other media, community site/event link ).
 
 Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-### Digital Swag Source  
+### :card_index: Digital Swag Source  
 
 * [ ] VMUG Community (include chapter name below)
 * [ ] Other Community (include community name below)
@@ -21,13 +21,13 @@ Please also include relevant motivation and context. List any dependencies that 
 
 _Source Name:_
 
-### Digital Media Type  
+### :file_folder: Digital Media Type  
 
 * [ ] Images/logos
 * [ ] Other digital media
 * [ ] Community Site/Event link
 
-### Checklist (check all applicable)  
+### :heavy_check_mark: list (check all applicable)  
 
 * [ ] I agree to these digital media being shared with the greater community
 * [ ] I have performed at least a cursory check that these are not duplicates
